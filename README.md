@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V3.02 - SlimPAR T6BT ILS](https://github.com/Chauvet-DJ/SLIMPART6BTILS/blob/d2efddaf5180ec80881ba3f36e9ba9ced5097ee9/Firmware/V3.02.zip)
+- Fixed signal droppage when a D-Fi USB stick is connected
+
 [V3.01 - SlimPAR T6BT ILS](https://github.com/Chauvet-DJ/SLIMPART6BTILS/blob/3eabbe1723be80026606ead33553d04c5a5feada/Firmware/V3.01.zip)
 - Released initial software version
 
